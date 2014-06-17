@@ -14,9 +14,9 @@ Instructions
  * Download ZIP file with the data from the course web site. 
  * Extract it into "UCI HAR" folder. 
  * Clone this repo (https://github.com/ivanku/UCI-HAR) in such a way that you have the following directory structure:
- .
- |- UCI HAR (data foler here)
- |- UCI-HAR (cloned repo here)
+    .
+    |- UCI HAR Dataset (data foler here)
+    |- UCI-HAR (cloned repo here)
 
 Go to UCI-HAR directory and run R script run_analysis.R
 
